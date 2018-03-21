@@ -1,16 +1,15 @@
-This is a Java Application of N-way set associative implementation
+### N way Set Associative Cache
 
-This file contains instruction to run the program
+https://github.com/hhundiwala/N-Way-Set-Associate-Cache/blob/master/Cache%20Design%20Document.pdf
 
-Note: Sample Main file is already provided, and is present in /N-waySetAssociativeCache/src
-
+[Implementation and Usage details](https://github.com/hhundiwala/N-Way-Set-Associate-Cache/blob/master/Cache%20Design%20Document.pdf)
 
 IDE -> IntelliJ IDEA:
 1. Go to File -> Open
 2. Browse to the directory where the source code is downloaded
 3. Click open
 
-You can run the Main.class to run the entire program
+You can run the Main.class to run the entire program (Sample Main Class is provided with cache initialization)
 
 To run the program:
 1. Go to Run
