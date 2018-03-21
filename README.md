@@ -1,7 +1,5 @@
 ### N way Set Associative Cache
 
-https://github.com/hhundiwala/N-Way-Set-Associate-Cache/blob/master/Cache%20Design%20Document.pdf
-
 [Implementation and Usage details](https://github.com/hhundiwala/N-Way-Set-Associate-Cache/blob/master/Cache%20Design%20Document.pdf)
 
 IDE -> IntelliJ IDEA:
