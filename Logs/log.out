@@ -1,0 +1,17 @@
+[INFO] 2018-02-16 18:17:11,682 cache.Cache getReplacementStrategy - Least Recently Used replacement strategy selected
+[INFO] 2018-02-16 18:17:11,685 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-16 18:17:11,687 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-16 18:17:11,687 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-16 18:17:11,687 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-16 18:17:11,690 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-16 18:17:11,690 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-16 18:17:11,690 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-16 18:17:11,690 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-16 18:17:11,690 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-16 18:17:11,690 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-16 18:17:11,690 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-16 18:17:11,691 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-16 18:17:11,691 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-16 18:17:11,691 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-16 18:17:11,691 cache.Cache get - Get Operation - Cache Miss identified (DataBlock not found in cache), Terminating execution
+[INFO] 2018-02-16 18:17:11,693 cache.Cache remove - Get Operation - Cache Miss identified (DataBlock not found in cache), Termination execution

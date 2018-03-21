@@ -1,0 +1,252 @@
+[INFO] 2018-02-15 00:16:19,187 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,196 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 00:16:19,196 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 00:16:19,197 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,197 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 00:16:19,201 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 00:16:19,201 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,201 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 00:16:19,201 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 00:16:19,201 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,202 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 00:16:19,202 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 00:16:19,202 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 00:16:19,202 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,202 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 00:16:19,202 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 00:16:19,205 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 00:16:19,205 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,207 cache.Cache get - Get Operation - Cache Miss identified, Termination execution
+[INFO] 2018-02-15 00:16:19,207 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 00:16:19,207 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:20:04,705 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:20:04,711 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:20:04,711 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:22:56,909 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:22:56,914 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:22:56,914 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:22:56,922 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:04,478 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:04,483 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:33,952 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:33,959 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:52,748 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:24:52,756 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:25:20,881 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:25:20,889 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:25:20,889 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:34,207 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:34,212 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:34,213 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:58,079 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:58,085 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:28:58,085 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:29:45,087 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:29:45,091 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:29:45,091 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:48:58,246 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:48:58,255 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:48:58,255 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:48:58,256 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:48:58,256 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:48:58,258 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:48:58,258 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:48:58,258 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:48:58,259 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:48:58,259 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:16,362 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:16,371 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:16,371 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:16,372 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:16,372 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:16,375 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:16,375 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:16,375 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:16,378 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:16,378 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:16,378 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 13:50:16,378 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 13:50:22,015 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:22,023 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:22,024 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:22,024 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:22,025 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:22,028 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:22,029 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:22,029 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:22,029 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:22,030 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:22,030 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 13:50:22,030 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 13:50:31,443 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,449 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,449 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,454 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,455 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,455 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,456 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,457 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,457 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,466 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:31,466 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,467 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:31,467 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:31,467 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:31,468 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:50:31,468 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:50:31,471 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:31,472 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:50:31,472 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:50:31,473 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 13:50:31,473 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 13:53:59,565 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:53:59,575 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:53:59,575 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:53:59,575 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:53:59,575 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:53:59,577 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:53:59,578 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:53:59,578 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:53:59,578 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:53:59,579 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:55:36,645 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:55:36,650 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:55:36,651 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:55:36,651 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:55:36,651 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 13:55:36,653 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 13:55:36,653 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 13:55:36,653 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 13:55:36,654 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 13:55:36,654 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,827 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,831 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 17:59:32,832 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,832 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,832 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 17:59:32,835 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,835 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,835 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 17:59:32,835 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,835 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,835 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 17:59:32,835 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 17:59:32,835 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,836 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,836 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 17:59:32,836 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 17:59:32,837 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 17:59:32,838 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,838 cache.Cache get - Get Operation - Cache Miss identified, Terminating execution
+[INFO] 2018-02-15 17:59:32,838 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 17:59:32,838 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,352 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,356 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:00:08,356 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,356 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,356 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,359 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,359 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:00:08,359 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,359 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,359 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:00:08,360 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:00:08,361 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:00:08,362 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 18:00:08,362 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 18:10:43,975 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 18:10:43,978 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:11:51,346 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 18:11:51,349 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:17:41,935 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 18:17:41,939 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:18:36,040 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 18:18:36,042 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:19:06,417 cache.Cache put - Put Operation - Starting Execution
+[ERROR] 2018-02-15 18:19:06,420 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:19:38,660 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,538 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,545 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:20:12,545 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:20:12,545 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,546 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:20:12,549 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:20:12,549 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,550 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:20:12,550 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:20:12,550 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,550 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:20:12,550 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:20:12,550 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:20:12,550 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,550 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:20:12,551 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:20:12,553 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:20:12,553 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 18:20:12,553 cache.Cache get - Get Operation - Execution finished successfully
+[ERROR] 2018-02-15 18:22:45,272 cache.Cache put - Type Mismatch Exception found, Datatype of key,value should be same for a instance of cache
+[INFO] 2018-02-15 18:22:49,591 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,598 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:22:49,598 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:22:49,598 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,599 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:22:49,602 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:22:49,602 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,602 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:22:49,602 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:22:49,602 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,603 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:22:49,603 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:22:49,603 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:22:49,603 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,603 replacementStrategies.LeastRecentlyUsed replace - LRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:22:49,603 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:22:49,605 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:22:49,606 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 18:22:49,606 cache.Cache get - Get Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,553 cache.Cache getReplacementStrategy - Most Recently Used replacement strategy selected
+[INFO] 2018-02-15 18:35:59,557 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,558 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:35:59,558 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,559 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,561 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:35:59,561 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,561 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,562 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:35:59,562 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,562 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,562 replacementStrategies.MostRecentlyUsed replace - MRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:35:59,562 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:35:59,562 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,562 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,562 replacementStrategies.MostRecentlyUsed replace - MRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:35:59,564 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:35:59,564 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:35:59,565 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 18:35:59,565 cache.Cache get - Get Operation - Cache Miss identified, Terminating execution
+[INFO] 2018-02-15 18:36:36,179 cache.Cache getReplacementStrategy - Most Recently Used replacement strategy selected
+[INFO] 2018-02-15 18:36:36,183 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,184 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:36:36,184 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:36:36,184 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,186 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:36:36,186 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:36:36,187 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,187 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:36:36,187 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:36:36,187 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,187 replacementStrategies.MostRecentlyUsed replace - MRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:36:36,187 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:36:36,187 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:36:36,187 cache.Cache put - Put Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,187 replacementStrategies.MostRecentlyUsed replace - MRU Algorithm using to remove DataBlock
+[INFO] 2018-02-15 18:36:36,189 cache.SetList add - Add - Adding DataBlock to cache
+[INFO] 2018-02-15 18:36:36,189 cache.Cache put - Put Operation - Execution finished successfully
+[INFO] 2018-02-15 18:36:36,189 cache.Cache remove - Get Operation - Cache Miss identified, Termination execution
+[INFO] 2018-02-15 18:36:36,189 cache.Cache get - Get Operation - Starting Execution
+[INFO] 2018-02-15 18:36:36,190 cache.Cache get - Get Operation - Cache Miss identified, Terminating execution
